@@ -1,0 +1,1 @@
+# grails-as-docker-image
